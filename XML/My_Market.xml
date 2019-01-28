@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<SHOP NAME="Zamazon" xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    xs:schemaLocation="my_market.xsd"   >
+    <CATEGORY NAME= "Computer"> 
+        <PRODUCT>
+            <NAME>Apple</NAME>
+            <DESCRIPTION>A White Laptop with 2GB RAM and i5 Processor</DESCRIPTION>
+            <PRICE>750</PRICE>
+            <RATING>9</RATING>
+        </PRODUCT>
+        <PRODUCT>
+            <NAME>HP</NAME>
+            <DESCRIPTION>Red Laptop with 16GB RAM and i7 Processor</DESCRIPTION>
+            <PRICE>800</PRICE>
+            <RATING>6</RATING>
+        </PRODUCT>
+    </CATEGORY>
+    
+    <CATEGORY NAME= "Electronics"> 
+        <PRODUCT>
+            <NAME>Samsung</NAME>
+            <DESCRIPTION>White phone with 5.8 inches OLED screen and Cynaogen OS</DESCRIPTION>
+            <PRICE>200</PRICE>
+            <RATING>4</RATING>
+        </PRODUCT>
+        <PRODUCT>
+            <NAME>iPhone XS</NAME>
+            <DESCRIPTION>Rose Gold phone bezel less phone with Super AMLOED Screen</DESCRIPTION>
+            <PRICE>1146</PRICE>
+            <RATING>9</RATING>
+            <COMMENT>
+                <PERSON>Rohit Roy</PERSON>
+                <DATE>5/11/18</DATE>
+                <DESC>Best iPhone ever!!</DESC>
+            </COMMENT>
+        </PRODUCT>
+    </CATEGORY>
+    
+    <CATEGORY NAME= "Clothing"> 
+        <PRODUCT>
+            <NAME>Raymonds</NAME>
+            <DESCRIPTION>Black Suite</DESCRIPTION>
+            <PRICE>1000</PRICE>
+            <RATING>7</RATING>
+        </PRODUCT>
+        
+        <PRODUCT>
+            <NAME>Levis</NAME>
+            <DESCRIPTION>Jeans</DESCRIPTION>
+            <PRICE>50</PRICE>
+            <RATING>6</RATING>
+        </PRODUCT>
+    </CATEGORY>
+</SHOP> 

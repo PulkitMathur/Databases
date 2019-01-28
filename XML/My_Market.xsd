@@ -1,0 +1,36 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="SHOP">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="CATEGORY">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="PRODUCT">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="NAME"></xs:element>
+                                        <xs:element name="DESCRIPTION" type="xs:string"></xs:element>
+                                        <xs:element name="PRICE" type="xs:int"></xs:element>
+                                        <xs:element name="RATING" type="xs:string"></xs:element>
+                                        <xs:element name="COMMENT">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="PERSON" type="xs:string"></xs:element>
+                                                    <xs:element name="DATE" type="xs:date"></xs:element>
+                                                    <xs:element name="DESC" type="xs:string"></xs:element>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            
+                        </xs:sequence>
+                        <xs:attribute name="NAME" use="required"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>    
+            </xs:sequence>
+            <xs:attribute name="NAME" use="required"></xs:attribute>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
