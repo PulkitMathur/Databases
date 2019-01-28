@@ -1,0 +1,1654 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "asg2DTD.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30276571</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-2568</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Oct</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Digestive diseases and sciences</Title>
+                <ISOAbbreviation>Dig. Dis. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Utility of Esophageal High-Resolution Manometry in Clinical Practice: First, Do HRM.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10620-018-5300-4</ELocationID>
+            <Abstract>
+                <AbstractText>Esophageal high-resolution manometry (HRM) has advanced the understanding of esophageal motor function and the ability to diagnose and manage disorders of esophageal motility. In this review, we describe the indications for and the technical performance of HRM. The Chicago classification of esophageal motor function, now in its third iteration, streamlines and standardizes the nomenclature and basic interpretation of HRM data depicted as Clouse topographic plots. In clinical practice, HRM is an important diagnostic test for patients with dysphagia as well as patients with suspected gastroesophageal reflux disease (GERD), particularly in those patients with a suboptimal symptomatic response to antisecretory therapy. HRM can support diagnoses such as achalasia, as well as provide evidence for behavioral disorders such as rumination syndrome or supragastric belching with the assistance of postprandial HRM with impedance. Further, the GERD classification of motor function introduces a three-part hierarchical evaluation of esophageal motor function in GERD, highlighting the value of assessment of esophageal contractile reserve through provocative maneuvers during HRM such as multiple rapid swallows.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dhawan</LastName>
+                    <ForeName>Ishita</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Pennsylvania Hospital, University of Pennsylvania Health System, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Connell</LastName>
+                    <ForeName>Brendon</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Durham Veterans Affairs Medical Center, Duke University School of Medicine, Durham, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Amit</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Gastroenterology, Durham Veterans Affairs Medical Center, Duke University School of Medicine, Durham, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schey</LastName>
+                    <ForeName>Ron</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Section, Department of Medicine, Lewis Katz School of Medicine, Temple University School of Medicine, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parkman</LastName>
+                    <ForeName>Henry P</ForeName>
+                    <Initials>HP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Section, Department of Medicine, Lewis Katz School of Medicine, Temple University School of Medicine, Philadelphia, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Friedenberg</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastroenterology Section, Department of Medicine, Lewis Katz School of Medicine, Temple University School of Medicine, Philadelphia, PA, USA. frank.friedenberg@tuhs.temple.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dig Dis Sci</MedlineTA>
+            <NlmUniqueID>7902782</NlmUniqueID>
+            <ISSNLinking>0163-2116</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Antireflux surgery (ARS)</Keyword>
+            <Keyword MajorTopicYN="N">Chicago classification</Keyword>
+            <Keyword MajorTopicYN="N">Esophageal high-resolution manometry (HRM)</Keyword>
+            <Keyword MajorTopicYN="N">Gastroesophageal reflux disease (GERD)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30276571</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10620-018-5300-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10620-018-5300-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30268301</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-5069</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thoracic surgery clinics</Title>
+                <ISOAbbreviation>Thorac Surg Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Role of Novel Functional Probes in the Evaluation and Treatment of Esophageal Disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>555-566</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1547-4127(18)30105-1</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.thorsurg.2018.07.007</ELocationID>
+            <Abstract>
+                <AbstractText>The understanding of esophageal function and dysfunction in a variety of disease states has been driven largely by the introduction of a variety of measurement technologies. Included in these are contrast esophagram, computed tomography, high-resolution manometry, and 24-hour pH monitoring. Two novel measurement technologies, the functional lumen imaging probe (FLIP) and mucosal impedance (MI) catheter have recently introduced and studied. This review will discuss the technological basis of these tools and the evidence behind their application in the measurement of esophageal anatomy, physiology, and histology pertaining to a number of diseases, including gastroesophageal reflux disease, achalasia, and esosinophilic esophagitis.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Teitelbaum</LastName>
+                    <ForeName>Ezra N</ForeName>
+                    <Initials>EN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, Northwestern University Feinberg School of Medicine, 676 North St. Clair Street, Suite 650, Chicago, IL 60611, USA. Electronic address: Ezra.Teitelbaum@nm.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunst</LastName>
+                    <ForeName>Christy M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Foregut Surgeon, The Oregon Clinic, 4805 Northeast Glisan Street, Suite 6N60, Portland, OR 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thorac Surg Clin</MedlineTA>
+            <NlmUniqueID>101198195</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Achalasia</Keyword>
+            <Keyword MajorTopicYN="N">Eosinophilic esophagitis</Keyword>
+            <Keyword MajorTopicYN="N">Esophageal physiology</Keyword>
+            <Keyword MajorTopicYN="N">Functional lumen imaging probe</Keyword>
+            <Keyword MajorTopicYN="N">GERD</Keyword>
+            <Keyword MajorTopicYN="N">Gastroesophageal reflux disease</Keyword>
+            <Keyword MajorTopicYN="N">Manometry</Keyword>
+            <Keyword MajorTopicYN="N">Mucosal impedance</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30268301</ArticleId>
+            <ArticleId IdType="pii">S1547-4127(18)30105-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thorsurg.2018.07.007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Process" Owner="NLM">
+        <PMID Version="1">30268295</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-5069</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thoracic surgery clinics</Title>
+                <ISOAbbreviation>Thorac Surg Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Peroral Endoscopic Myotomy for Achalasia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>499-506</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1547-4127(18)30103-8</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.thorsurg.2018.07.005</ELocationID>
+            <Abstract>
+                <AbstractText>Peroral endoscopic myotomy surgery is an incisionless, minimally invasive, natural orifice technique used to treat the symptoms of achalasia and other spastic disorders of the esophagus. Recent experience demonstrates that it can be performed safely by experienced esophageal surgeons and there are very good short-term outcomes comparable to laparoscopic myotomy. The rapid worldwide adoption of this technique demonstrates its potential to replace the current therapies available for achalasia. A cautionary note is important in that long-term outcomes are not yet available in terms of dysphagia and GERD symptoms.</AbstractText>
+                <CopyrightInformation>Copyright © 2018 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schaheen</LastName>
+                    <ForeName>Lara W</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiothoracic Surgery, University of Pittsburgh Medical Center, UPMC Presbyterian, Suite C-800, 200 Lothrop Street, Pittsburgh, PA 15213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanchez</LastName>
+                    <ForeName>Manuel Villa</ForeName>
+                    <Initials>MV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiothoracic Surgery, University of Pittsburgh Medical Center, UPMC Presbyterian, Suite C-800, 200 Lothrop Street, Pittsburgh, PA 15213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luketich</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cardiothoracic Surgery, University of Pittsburgh Medical Center, UPMC Presbyterian, Suite C-800, 200 Lothrop Street, Pittsburgh, PA 15213, USA. Electronic address: luketichjd@upmc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Thorac Surg Clin</MedlineTA>
+            <NlmUniqueID>101198195</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Achalasia</Keyword>
+            <Keyword MajorTopicYN="N">Dysphagia</Keyword>
+            <Keyword MajorTopicYN="N">Heller myotomy</Keyword>
+            <Keyword MajorTopicYN="N">Minimally invasive</Keyword>
+            <Keyword MajorTopicYN="N">Natural orifice surgery</Keyword>
+            <Keyword MajorTopicYN="N">Peroral endoscopic myotomy (POEM)</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30268295</ArticleId>
+            <ArticleId IdType="pii">S1547-4127(18)30103-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.thorsurg.2018.07.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30261536</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1438-8812</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Endoscopy</Title>
+                <ISOAbbreviation>Endoscopy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The effect of prior treatment on clinical outcomes in patients with achalasia undergoing peroral endoscopic myotomy.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1055/a-0658-5783</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND"> Peroral endoscopic myotomy (POEM) is a treatment option for patients with previous surgical or endoscopic treatment. We aimed to evaluate the influence of prior treatment on perioperative and follow-up outcomes in patients undergoing POEM.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS"> From August 2010 to December 2014, a total of 1384 patients with achalasia underwent POEM at our center. We retrospectively reviewed 849 patients who completed follow-up. Patients with an Eckardt score ≥ 4 after POEM were considered to have a clinical failure. We compared variables between patients with and without prior treatment. We analyzed risk factors for perioperative major adverse events, and clinical reﬂux and failure during follow-up.  RESULTS:  245 patients (28.9 %) had undergone prior treatment, and 34 patients (4.0 %) experienced a major adverse event associated with the POEM procedure. During a median follow-up of 23 months (range 1 - 71), clinical reflux occurred in 203 patients (23.9 %) and clinical failure was recorded for 94 patients (11.1 %). Patients with prior treatment had a longer procedure duration (<i>P</i> = 0.001) and longer hospital stay after POEM (<i>P</i> = 0.001). Prior treatment was not an independent risk factor for major adverse events or clinical reflux (odds ratio [OR] 1.19, <i>P</i> = 0.65; OR 1.26, <i>P</i> = 0.19; logistic regression), but it did increase the rate of clinical failure during follow-up (hazard ratio 1.90, <i>P</i> = 0.002; Cox regression).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS"> POEM was performed safely with a low rate of major adverse events in patients with achalasia who had undergone prior surgical or endoscopic treatment. However, prior treatment increased the risk of clinical failure after POEM.</AbstractText>
+                <CopyrightInformation>© Georg Thieme Verlag KG Stuttgart · New York.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Zu-Qiang</ForeName>
+                    <Initials>ZQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Quan-Lin</ForeName>
+                    <Initials>QL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Chen</LastName>
+                    <ForeName>Wei-Feng</ForeName>
+                    <Initials>WF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Xiao-Cen</ForeName>
+                    <Initials>XC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Wu</LastName>
+                    <ForeName>Qiu-Ning</ForeName>
+                    <Initials>QN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Cai</LastName>
+                    <ForeName>Ming-Yan</ForeName>
+                    <Initials>MY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Qin</LastName>
+                    <ForeName>Wen-Zheng</ForeName>
+                    <Initials>WZ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Hu</LastName>
+                    <ForeName>Jian-Wei</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yi-Qun</ForeName>
+                    <Initials>YQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Xu</LastName>
+                    <ForeName>Mei-Dong</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Yao</LastName>
+                    <ForeName>Li-Qing</ForeName>
+                    <Initials>LQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="N">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Ping-Hong</ForeName>
+                    <Initials>PH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Endoscopy Center and Endoscopy Research Institute, Zhongshan Hospital, Fudan University, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Endoscopy</MedlineTA>
+            <NlmUniqueID>0215166</NlmUniqueID>
+            <ISSNLinking>0013-726X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CoiStatement>None.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30261536</ArticleId>
+            <ArticleId IdType="doi">10.1055/a-0658-5783</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">30260775</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2148-5607</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Turkish journal of gastroenterology : the official journal of Turkish Society of Gastroenterology</Title>
+                <ISOAbbreviation>Turk J Gastroenterol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of preoperative endoscopic pneumatic balloon dilatation on postoperative achalasia symptoms after Heller esophageal myotomy plus Dor fundoplication.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>543-548</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5152/tjg.2018.17822</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND/AIMS" NlmCategory="OBJECTIVE">Currently, forceful endoscopic pneumatic balloon dilatation (PBD), laparoscopic Heller myotomy (LHM) with or without an anti-reflux procedure, and peroral endoscopic myotomy are the preferred treatment options for achalasia. The aim of the present study was to retrospectively compare postoperative outcomes after LHM plus Dor fundoplication (DF) between patients who underwent prior endoscopic balloon dilatation and those who did not.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Sixty-five patients who underwent HM+DF between January 2008 and December 2016 were retrospectively analyzed. Of these, 45 had a history of endoscopic PBD. Pre- and postoperative achalasia symptoms, including weight loss, dysphagia, heartburn, and regurgitation, were evaluated using the Eckardt score.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty (76.9%) patients underwent laparoscopic surgery and 15 (23.1%) underwent open surgery. When patients were compared according to the presence of preoperative endoscopic PBD, no significant difference were observed in terms of age, sex, preoperative lower esophageal sphincter pressure, operation time, hospitalization period, and follow-up period (p&gt;0.05). The mean Eckardt score at the first postoperative year was significantly lower than the preoperative Eckardt score (4.51±1.8 vs. 0.52±0.7; p&lt;0.001). In contrast, no significant difference was found between patients with and without previous PBD on the pre- and postoperative Eckardt scores (p=0.43).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">HM+DF is an effective procedure in relieving achalasia symptoms as a first-line therapy as well as in individuals unresponsive to repeated endoscopic PBDs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Öter</LastName>
+                    <ForeName>Volkan</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterological Surgery, Türkiye Yüksek İhtisas Training and Research Hospital, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bostancı</LastName>
+                    <ForeName>Erdal Birol</ForeName>
+                    <Initials>EB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterological Surgery, Türkiye Yüksek İhtisas Training and Research Hospital, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karaman</LastName>
+                    <ForeName>Kerem</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterological Surgery, Türkiye Yüksek İhtisas Training and Research Hospital, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sümer</LastName>
+                    <ForeName>Fatih</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterological Surgery, Türkiye Yüksek İhtisas Training and Research Hospital, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Özer</LastName>
+                    <ForeName>İlter</ForeName>
+                    <Initials>İ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterological Surgery, Türkiye Yüksek İhtisas Training and Research Hospital, Ankara, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Turkey</Country>
+            <MedlineTA>Turk J Gastroenterol</MedlineTA>
+            <NlmUniqueID>9515841</NlmUniqueID>
+            <ISSNLinking>1300-4948</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30260775</ArticleId>
+            <ArticleId IdType="doi">10.5152/tjg.2018.17822</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30251140</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-2218</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Surgical endoscopy</Title>
+                <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Routine esophageal manometry is not useful in patients with normal videoesophagram.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-018-6456-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Videoesophagram (VEG) and esophageal manometry (EM) are components of the preoperative evaluation for foregut surgery. EM is able to identify motility disorders and diminished contractility that may alter surgical planning. However, there are no clearly defined criteria to guide this. Reliable manometry is not always easily obtained, and therefore its necessity in routine preoperative evaluation is unclear. We hypothesized that if a patient has normal videoesophagram, manometry does not reveal clinically significant esophageal dysfunction.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We reviewed patients who underwent protocolized videoesophagram and manometry at our institution. Measures of esophageal motility including the mean distal contractile integral (DCI), mean wave amplitude (MWA), and percent of peristaltic swallows (PPS) were analyzed. The Chicago Classification was used for diagnostic criteria of motility disorders. Normal VEG was defined as stasis of liquid barium on less than three of five swallows.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">There were 418 patients included. 231 patients (55%) had a normal VEG, and 187 patients (45%) had an abnormal VEG. In the normal VEG group, only 2/231 (0.9%) patients had both abnormal DCI and PPS, 1/231 (0.4%) patients had both abnormal DCI and MWA and no patients had both abnormal MWA and PPS. There were no patients with achalasia or absent contractility and 1 patient with ineffective esophageal motility (IEM) in the normal VEG group. This was significantly different from the abnormal VEG group which included 4 patients with achalasia, 1 with absent contractility and 22 with IEM (p &lt; 0.0001). The negative predictive value of VEG was 99.6% and the sensitivity was 96.4%.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A normal videoesophagram reliably excluded the presence of clinically significant esophageal dysmotility that would alter surgical planning. Routine manometry is not warranted in patients with normal videoesophagram, and should be reserved for patients with abnormal VEG.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Alicuben</LastName>
+                    <ForeName>Evan T</ForeName>
+                    <Initials>ET</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bildzukewicz</LastName>
+                    <ForeName>Nikolai</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samakar</LastName>
+                    <ForeName>Kamran</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katkhouda</LastName>
+                    <ForeName>Namir</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dobrowolsky</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sandhu</LastName>
+                    <ForeName>Kulmeet</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lipham</LastName>
+                    <ForeName>John C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Upper GI and General Surgery, Department of Surgery, Keck School of Medicine of the University of Southern California, 1510 San Pablo St. #514, Los Angeles, CA, 90033, USA. john.lipham@med.usc.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Surg Endosc</MedlineTA>
+            <NlmUniqueID>8806653</NlmUniqueID>
+            <ISSNLinking>0930-2794</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Esophageal motility</Keyword>
+            <Keyword MajorTopicYN="N">High-resolution manometry</Keyword>
+            <Keyword MajorTopicYN="N">Videoesophagram</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30251140</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00464-018-6456-x</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00464-018-6456-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30248290</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">2564-6850</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Turkish journal of surgery</Title>
+                <ISOAbbreviation>Turk J Surg</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Heterotopic ossification of the anterior abdominal wall.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5152/turkjsurg.2018.4008</ELocationID>
+            <Abstract>
+                <AbstractText>Heterotopic ossification is the formation of bone tissues in areas other than the skeletal system. It is more often seen as a complication of orthopedic surgery; however, it is a pathological condition that might be observed during the healing of abdominal incisions in the midline. The aim of this study is to present a case of a 63-year-old male patient with complaints of induration and pain on the region of his previous incision through which he had been operated for achalasia. Heterotopic ossification has also been discussed in the light of the current literature.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Akıncı</LastName>
+                    <ForeName>Ozan</ForeName>
+                    <Initials>O</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7149-6854</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kutluk</LastName>
+                    <ForeName>Fadime</ForeName>
+                    <Initials>F</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5441-766X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cin</LastName>
+                    <ForeName>Selçuk</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5097-0505</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ertürk</LastName>
+                    <ForeName>Süphan</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-4432-1274</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yüceyar</LastName>
+                    <ForeName>Serdar</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9625-626X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perek</LastName>
+                    <ForeName>Asiye</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-7850-7982</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Surgery, İstanbul University-Cerrahpaşa, Cerrahpaşa School of Medicine, İstanbul, Turkey.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Turkey</Country>
+            <MedlineTA>Turk J Surg</MedlineTA>
+            <NlmUniqueID>101704837</NlmUniqueID>
+            <ISSNLinking>2564-6850</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30248290</ArticleId>
+            <ArticleId IdType="pii">turkjsurg.2018.4008</ArticleId>
+            <ArticleId IdType="doi">10.5152/turkjsurg.2018.4008</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30238248</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-4626</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of gastrointestinal surgery : official journal of the Society for Surgery of the Alimentary Tract</Title>
+                <ISOAbbreviation>J. Gastrointest. Surg.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A Thousand and One Laparoscopic Heller Myotomies for Esophageal Achalasia: a 25-Year Experience at a Single Tertiary Center.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11605-018-3956-x</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The aim of this study was to assess the long-term outcome of laparoscopic Heller-Dor (LHD) myotomy to treat achalasia at a single high-volume institution in the past 25 years.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Patients undergoing LHD from 1992 to 2017 were prospectively registered in a dedicated database. Those who had already undergone surgical or endoscopic myotomy were ruled out. Symptoms were collected and scored using a detailed questionnaire; barium swallow, endoscopy, and manometry were performed before and after surgery; and 24-h pH monitoring was done 6 months after LHD.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">One thousand one patients underwent LHD (M:F = 536:465), performed by six staff surgeons. The surgical procedure was completed laparoscopically in all but 8 patients (0.8%). At a median of follow-up of 62 months, the outcome was positive in 896 patients (89.5%), and the probability of being cured from symptoms at 20 years exceeded 80%. Among the patients who had previously received other treatments, there were 25/182 failures (13.7%), while the failures in the primary treatment group were 80/819 (9.8%) (p = 0.19). All 105 patients whose LHD failed subsequently underwent endoscopic pneumatic dilations with an overall success rate of 98.4%. At univariate analysis, the manometric pattern (p &lt; 0.001), the presence of a sigmoid megaesophagus (p = 0.03), and chest pain (p &lt; 0.001) were the factors that predicted a poor outcome. At multivariate analysis, all three factors were independently associated with a poor outcome. Post-operative 24-h pH monitoring was abnormal in 55/615 patients (9.1%).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">LHD can durably relieve achalasia symptoms in more than 80% of patients. The pre-operative manometric pattern, the presence of a sigmoid esophagus, and chest pain represent the strongest predictors of outcome.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Costantini</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9302-8536</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy. m.costantini@unipd.it.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salvador</LastName>
+                    <ForeName>Renato</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Capovilla</LastName>
+                    <ForeName>Giovanni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vallese</LastName>
+                    <ForeName>Lorenzo</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costantini</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine, Università Cattolica Sacro Cuore, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicoletti</LastName>
+                    <ForeName>Loredana</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Briscolini</LastName>
+                    <ForeName>Dario</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Valmasoni</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merigliano</LastName>
+                    <ForeName>Stefano</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinica Chirurgica 3, Department of Surgical, Oncological and Gastroenterological Sciences, Università ed Azienda Ospedaliera di Padova, 2, via Giustiniani, 35128, Padua, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Gastrointest Surg</MedlineTA>
+            <NlmUniqueID>9706084</NlmUniqueID>
+            <ISSNLinking>1091-255X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Achalasia</Keyword>
+            <Keyword MajorTopicYN="N">Laparoscopic Heller myotomy</Keyword>
+            <Keyword MajorTopicYN="N">Laparoscopic surgery</Keyword>
+            <Keyword MajorTopicYN="N">Long-term results</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30238248</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11605-018-3956-x</ArticleId>
+            <ArticleId IdType="pii">10.1007/s11605-018-3956-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">30233226</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">1178-7023</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <PubDate>
+                        <Year>2018</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical and experimental gastroenterology</Title>
+                <ISOAbbreviation>Clin Exp Gastroenterol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Achalasia and esophageal cancer: risks and links.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>309-316</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2147/CEG.S141642</ELocationID>
+            <Abstract>
+                <AbstractText>Esophageal cancer affects more than 4,50,000 persons worldwide, and its incidence has increased in recent years. It is the eighth most common cancer across the globe. The main histologic types are esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma (EA), and their associated risk factors are well known. Achalasia, an idiopathic esophageal disorder that conditions aperistalsis and the absence of lower esophageal sphincter relaxation, stands out among them. The prevalence of ESCC in subjects with esophageal achalasia is 26 in every 1,000 cases, whereas the prevalence of EA is 4 in every 1,000. Patients with achalasia have a 50 times higher risk of presenting with ESCC than the general population, and the disease manifests 20-25 years after achalasia symptom onset. Multiple mechanisms are related to the development of ESCC in achalasia, and they include bacterial overgrowth, food stasis, genetic alterations, and chronic inflammation. Regarding the risk of EA in achalasia patients, most cases are associated with Barrett's esophagus, due to uncontrolled chronic acid reflux. Given that achalasia is a well-established factor for ESCC/EA, clinicians must be aware of said associations to enable the development of programs for the prevention and opportune detection of these cancers in patients with achalasia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Torres-Aguilera</LastName>
+                    <ForeName>Maura</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pediatric Gastroenteritis, Hospital CMN &quot;La Raza&quot;, Mexico City, Mexico.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Remes Troche</LastName>
+                    <ForeName>José María</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Digestive Physiology and Motility Laboratory, Medical Biological Research Institute, Universidad Veracruzana, Veracruz, Mexico, joremes@uv.mx.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Clin Exp Gastroenterol</MedlineTA>
+            <NlmUniqueID>101532800</NlmUniqueID>
+            <ISSNLinking>1178-7023</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Cancer. 2015 Mar 1;136(5):E359-86</RefSource>
+                <PMID Version="1">25220842</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Gastroenterol. 2011 Jan;106(1):57-61</RefSource>
+                <PMID Version="1">21212754</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Br J Surg. 1996 Sep;83(9):1174-85</RefSource>
+                <PMID Version="1">8983603</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Gastroenterol Hepatol. 2011 Mar;23(3):286-8</RefSource>
+                <PMID Version="1">21285883</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 1997 Jul;42(7):1354-61</RefSource>
+                <PMID Version="1">9246028</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2016 Nov;151(5):860-869.e7</RefSource>
+                <PMID Version="1">27492616</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Orphanet J Rare Dis. 2015 Sep 29;10:126</RefSource>
+                <PMID Version="1">26419362</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Biol Med. 2017 Feb;14(1):33-41</RefSource>
+                <PMID Version="1">28443201</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Head Neck. 2011 Jan;33(1):77-81</RefSource>
+                <PMID Version="1">20848418</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastrointest Endosc. 2012 Dec;76(6):1087-94</RefSource>
+                <PMID Version="1">23164510</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>JAMA. 1995 Nov 1;274(17):1359-62</RefSource>
+                <PMID Version="1">7563560</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oncology (Williston Park). 2000 Apr;14(4):507-14; discussion 518-20, 522-3</RefSource>
+                <PMID Version="1">10826312</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian Pac J Cancer Prev. 2011;12(9):2189-92</RefSource>
+                <PMID Version="1">22296354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Gastroenterol. 2009 Aug 28;15(32):3969-75</RefSource>
+                <PMID Version="1">19705490</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Gastroenterol Hepatol. 2013 Aug;11(8):934-43</RefSource>
+                <PMID Version="1">23466711</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Oncol. 2011 Feb 20;29(6):739-46</RefSource>
+                <PMID Version="1">21189382</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian Pac J Cancer Prev. 2011;12(10):2461-6</RefSource>
+                <PMID Version="1">22320939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann N Y Acad Sci. 2014 Sep;1325:187-96</RefSource>
+                <PMID Version="1">25266025</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochim Biophys Acta. 2013 Oct;1831(10):1533-41</RefSource>
+                <PMID Version="1">23500888</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastrointest Endosc Clin N Am. 2001 Apr;11(2):425-34, ix</RefSource>
+                <PMID Version="1">11319071</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Gastroenterol. 2013 Sep 21;19(35):5806-12</RefSource>
+                <PMID Version="1">24124325</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Genet. 2012 Oct;44(10):1090-7</RefSource>
+                <PMID Version="1">22960999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Gastroenterol. 2013 Sep 14;19(34):5598-606</RefSource>
+                <PMID Version="1">24039351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ Case Rep. 2015 Jan 06;2015:null</RefSource>
+                <PMID Version="1">25564630</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer. 1980 May 15;45(10):2655-8</RefSource>
+                <PMID Version="1">7378999</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2010 Aug;139(2):369-74</RefSource>
+                <PMID Version="1">20600038</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Gastroenterol. 2010 Oct;105(10):2150-2</RefSource>
+                <PMID Version="1">20927062</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Gastroenterol. 2017 Mar;51(3):195-202</RefSource>
+                <PMID Version="1">28009686</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur J Cancer Prev. 2017 Mar;26(2):107-118</RefSource>
+                <PMID Version="1">27014938</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Esophagus. 2017 Oct 1;30(10):1-8</RefSource>
+                <PMID Version="1">28859394</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Chest. 2003 Feb;123(2):608-12</RefSource>
+                <PMID Version="1">12576387</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Thorac Surg. 1995 Jun;59(6):1604-9</RefSource>
+                <PMID Version="1">7771859</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Clin Pract Gastroenterol Hepatol. 2008 Sep;5(9):517-26</RefSource>
+                <PMID Version="1">18679388</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Gastrointest Cancer. 2010 Jun;41(2):93-5</RefSource>
+                <PMID Version="1">20077033</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Detect Prev. 2000;24(1):13-23</RefSource>
+                <PMID Version="1">10757119</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Fam Physician. 2017 Jan 1;95(1):22-28</RefSource>
+                <PMID Version="1">28075104</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Tumori. 2012 Mar-Apr;98(2):191-203</RefSource>
+                <PMID Version="1">22677984</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Genet Cytogenet. 2004 Feb;149(1):17-22</RefSource>
+                <PMID Version="1">15104278</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Expert Rev Anticancer Ther. 2014 Jun;14(6):677-87</RefSource>
+                <PMID Version="1">24621143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cancer Invest. 2012 Nov;30(9):630-6</RefSource>
+                <PMID Version="1">23020291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Dis Sci. 2013 Jan;58(1):244-52</RefSource>
+                <PMID Version="1">23179142</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dis Esophagus. 2015 Apr;28(3):299-304</RefSource>
+                <PMID Version="1">24602003</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>World J Surg. 2001 Jun;25(6):745-9</RefSource>
+                <PMID Version="1">11376410</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Ann Surg Oncol. 2008 Oct;15(10):2903-9</RefSource>
+                <PMID Version="1">18618179</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Pediatr. 2009 Oct;21(5):651-4</RefSource>
+                <PMID Version="1">19543088</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Dig Liver Dis. 2018 Apr;50(4):342-347</RefSource>
+                <PMID Version="1">29208549</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Case Rep. 2016 Nov 14;17:845-849</RefSource>
+                <PMID Version="1">27840406</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Gastroenterol. 2016 Jul;32(4):319-24</RefSource>
+                <PMID Version="1">27276368</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asian Pac J Cancer Prev. 2011;12(1):229-33</RefSource>
+                <PMID Version="1">21517263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Gastroenterol. 2013 Aug;108(8):1238-49; quiz 1250</RefSource>
+                <PMID Version="1">23877351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gut. 1992 Feb;33(2):155-8</RefSource>
+                <PMID Version="1">1541408</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Prz Gastroenterol. 2017;12(3):226-228</RefSource>
+                <PMID Version="1">29123586</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Best Pract Res Clin Gastroenterol. 2016 Dec;30(6):893-900</RefSource>
+                <PMID Version="1">27938784</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2014 Jan 4;383(9911):83-93</RefSource>
+                <PMID Version="1">23871090</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Gastroenterology. 2015 Dec;149(7):1700-15</RefSource>
+                <PMID Version="1">26376349</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ Case Rep. 2017 Jun 20;2017:null</RefSource>
+                <PMID Version="1">28637650</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Gastroenterol. 2010 Oct;105(10):2144-9</RefSource>
+                <PMID Version="1">20588263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Anticancer Res. 2000 Sep-Oct;20(5C):3717-22</RefSource>
+                <PMID Version="1">11268444</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">achalasia</Keyword>
+            <Keyword MajorTopicYN="N">cancer</Keyword>
+            <Keyword MajorTopicYN="N">esophageal cancer</Keyword>
+            <Keyword MajorTopicYN="N">gastroesophageal reflux</Keyword>
+            <Keyword MajorTopicYN="N">risk factors</Keyword>
+        </KeywordList>
+        <CoiStatement>Disclosure Dr José María Remes Troche is a member of the Advisory Board of Takeda Pharmaceuticals, Alfa-Wassermann, and Almirall. He is a speaker for Takeda, Asofarma, Alfa-Wassermann, Almirall, and Astra-Zeneca. The authors report no other conflicts of interest in this work.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30233226</ArticleId>
+            <ArticleId IdType="doi">10.2147/CEG.S141642</ArticleId>
+            <ArticleId IdType="pii">ceg-11-309</ArticleId>
+            <ArticleId IdType="pmc">PMC6132237</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">30232618</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-2218</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Surgical endoscopy</Title>
+                <ISOAbbreviation>Surg Endosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long-term outcomes following POEM for non-achalasia motility disorders of the esophagus.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00464-018-6438-z</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Optimal treatment for symptomatic patients with non-achalasia motility disorders (NAD) such as diffuse esophageal spasm, esophagogastric junction outlet obstruction, and hypercontractile disorder is not well established. POEM has been offered to these patients since it is a less invasive and less morbid procedure but long-term outcomes remain undetermined. The aim of this study was to assess long-term outcomes of POEM for patients with NAD.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Records of 40 consecutive patients undergoing POEM for NAD from May 2011 to January 2016 at a single center were retrospectively reviewed. Preoperative and 6-month postoperative symptom scores, high-resolution manometry, pH testing, and timed barium swallow (TBS) data were collected. Patients were contacted by phone to obtain long-term symptom assessment. Symptoms were assessed using a standardized symptom questionnaire with scores for symptoms graded according to frequency and the Eckardt score.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Ten percent had minor complications with no postoperative sequelae. 90% of patients had significant improvement in their mean Eckardt scores (5.02 vs. 1.12, p &lt; 0.001) at early follow-up. Improvements in chest pain (1.02-0.36, p = 0.001) and dysphagia (2.20 vs. 0.40, p = 0.001) were seen. Significant improvements in manometric pressures and esophageal emptying on TBS were observed across groups. 38% (10/26) of patients had a postoperative pH score &gt; 14.72. Long-term (median 48 months) symptom scores were obtained from 29 (72.5%) patients. 82% of patients (24/29) had sustained symptom improvement. A small increase in the dysphagia scores was reported in the long-term follow-up compared to the immediate postoperative period (0.36-0.89, p = 0.046).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Chest pain and dysphagia are effectively palliated with POEM in patients with non-achalasia disorders of the esophagus. Significant improvements are durable in long-term follow-up. Despite earlier reports by our group suggesting possible inferior outcomes from POEM for this difficult group of patients, this study is far more encouraging. POEM should be considered in the treatment of patients with non-achalasia disorders of the esophagus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Filicori</LastName>
+                    <ForeName>Filippo</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunst</LastName>
+                    <ForeName>Christy M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA. cdunst@orclinic.com.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA. cdunst@orclinic.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharata</LastName>
+                    <ForeName>Ahmed</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdelmoaty</LastName>
+                    <ForeName>Walaa F</ForeName>
+                    <Initials>WF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zihni</LastName>
+                    <ForeName>Ahmed M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reavis</LastName>
+                    <ForeName>Kevin M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Demeester</LastName>
+                    <ForeName>Steven R</ForeName>
+                    <Initials>SR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swanström</LastName>
+                    <ForeName>Lee L</ForeName>
+                    <Initials>LL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Gastrointestinal and Minimally Invasive Surgery Division, The Oregon Clinic, 3805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institut Hospitalo Universitaire Strasbourg, 1, Place de l'Hôpital, 97000, Strasbourg, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Foundation for Surgical Innovation and Education, 4805 NE Glisan St, Suite 6N60, Portland, OR, 97213, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Surg Endosc</MedlineTA>
+            <NlmUniqueID>8806653</NlmUniqueID>
+            <ISSNLinking>0930-2794</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Dysphagia</Keyword>
+            <Keyword MajorTopicYN="N">Esophageal outflow obstruction</Keyword>
+            <Keyword MajorTopicYN="N">Hypercontractile esophagus</Keyword>
+            <Keyword MajorTopicYN="N">Long myotomy</Keyword>
+            <Keyword MajorTopicYN="N">Non-cardiac chest pain</Keyword>
+            <Keyword MajorTopicYN="N">POEM</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2018</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2018</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>aheadofprint</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">30232618</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00464-018-6438-z</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00464-018-6438-z</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!ELEMENT PubmedArticleSet (PubmedArticle)>
+<!ATTLIST PubmedArticleSet
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PubmedArticle (MedlineCitation,PubmedData)>
+<!ATTLIST PubmedArticle
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MedlineCitation (PMID,DateRevised,Article,MedlineJournalInfo,
+                           KeywordList)>
+<!ATTLIST MedlineCitation
+  xmlns CDATA #FIXED ''
+  Owner NMTOKEN #REQUIRED
+  Status NMTOKEN #REQUIRED>
+
+<!ELEMENT PubmedData (History,PublicationStatus,ArticleIdList)>
+<!ATTLIST PubmedData
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PMID (#PCDATA)>
+<!ATTLIST PMID
+  xmlns CDATA #FIXED ''
+  Version CDATA #REQUIRED>
+
+<!ELEMENT DateRevised (Year,Month,Day)>
+<!ATTLIST DateRevised
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Article (Journal,ArticleTitle,ELocationID,Abstract,AuthorList,
+                   Language,PublicationTypeList,ArticleDate)>
+<!ATTLIST Article
+  xmlns CDATA #FIXED ''
+  PubModel NMTOKEN #REQUIRED>
+
+<!ELEMENT MedlineJournalInfo (Country,MedlineTA,NlmUniqueID,
+                              ISSNLinking)>
+<!ATTLIST MedlineJournalInfo
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT KeywordList (Keyword)+>
+<!ATTLIST KeywordList
+  xmlns CDATA #FIXED ''
+  Owner NMTOKEN #REQUIRED>
+
+<!ELEMENT History (PubMedPubDate)+>
+<!ATTLIST History
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PublicationStatus (#PCDATA)>
+<!ATTLIST PublicationStatus
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ArticleIdList (ArticleId)+>
+<!ATTLIST ArticleIdList
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Journal (ISSN,JournalIssue,Title,ISOAbbreviation)>
+<!ATTLIST Journal
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ArticleTitle (#PCDATA)>
+<!ATTLIST ArticleTitle
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ELocationID (#PCDATA)>
+<!ATTLIST ELocationID
+  xmlns CDATA #FIXED ''
+  EIdType NMTOKEN #REQUIRED
+  ValidYN NMTOKEN #REQUIRED>
+
+<!ELEMENT Abstract (AbstractText)>
+<!ATTLIST Abstract
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT AuthorList (Author)+>
+<!ATTLIST AuthorList
+  xmlns CDATA #FIXED ''
+  CompleteYN NMTOKEN #REQUIRED>
+
+<!ELEMENT Language (#PCDATA)>
+<!ATTLIST Language
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PublicationTypeList (PublicationType)+>
+<!ATTLIST PublicationTypeList
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ArticleDate (Year,Month,Day)>
+<!ATTLIST ArticleDate
+  xmlns CDATA #FIXED ''
+  DateType NMTOKEN #REQUIRED>
+
+<!ELEMENT Country (#PCDATA)>
+<!ATTLIST Country
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT MedlineTA (#PCDATA)>
+<!ATTLIST MedlineTA
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT NlmUniqueID (#PCDATA)>
+<!ATTLIST NlmUniqueID
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ISSNLinking (#PCDATA)>
+<!ATTLIST ISSNLinking
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Keyword (#PCDATA)>
+<!ATTLIST Keyword
+  xmlns CDATA #FIXED ''
+  MajorTopicYN NMTOKEN #REQUIRED>
+
+<!ELEMENT PubMedPubDate (Year,Month,Day,Hour,Minute)>
+<!ATTLIST PubMedPubDate
+  xmlns CDATA #FIXED ''
+  PubStatus NMTOKEN #REQUIRED>
+
+<!ELEMENT ArticleId (#PCDATA)>
+<!ATTLIST ArticleId
+  xmlns CDATA #FIXED ''
+  IdType NMTOKEN #REQUIRED>
+
+<!ELEMENT ISSN (#PCDATA)>
+<!ATTLIST ISSN
+  xmlns CDATA #FIXED ''
+  IssnType NMTOKEN #REQUIRED>
+
+<!ELEMENT JournalIssue (PubDate)>
+<!ATTLIST JournalIssue
+  xmlns CDATA #FIXED ''
+  CitedMedium NMTOKEN #REQUIRED>
+
+<!ELEMENT Title (#PCDATA)>
+<!ATTLIST Title
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ISOAbbreviation (#PCDATA)>
+<!ATTLIST ISOAbbreviation
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT AbstractText (#PCDATA)>
+<!ATTLIST AbstractText
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Author (LastName,ForeName,Initials,AffiliationInfo)>
+<!ATTLIST Author
+  xmlns CDATA #FIXED ''
+  ValidYN NMTOKEN #REQUIRED>
+
+<!ELEMENT PublicationType (#PCDATA)>
+<!ATTLIST PublicationType
+  xmlns CDATA #FIXED ''
+  UI NMTOKEN #REQUIRED>
+
+<!ELEMENT Hour (#PCDATA)>
+<!ATTLIST Hour
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Minute (#PCDATA)>
+<!ATTLIST Minute
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT PubDate (Year,Month,Day)>
+<!ATTLIST PubDate
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT LastName (#PCDATA)>
+<!ATTLIST LastName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT ForeName (#PCDATA)>
+<!ATTLIST ForeName
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Initials (#PCDATA)>
+<!ATTLIST Initials
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT AffiliationInfo (Affiliation)>
+<!ATTLIST AffiliationInfo
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Affiliation (#PCDATA)>
+<!ATTLIST Affiliation
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Year (#PCDATA)>
+<!ATTLIST Year
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Month (#PCDATA)>
+<!ATTLIST Month
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Day (#PCDATA)>
+<!ATTLIST Day
+  xmlns CDATA #FIXED ''>
